@@ -13,3 +13,11 @@ You can download JPEG images in issues.
 Second shell script email_image.sh which given a list of image files as arguments displays them one-by-one. After the user has viewed each image the script should prompt the user for an e-mail address. If the user does enter an email address, the script should prompt the user for a message to accompany the image and then send the image to e-mail address. to that address. 
 
 There is an example below:
+
+$ ./email_image.sh penguins.png treefrog.png
+Address to e-mail this image to? yangyang01011001@gmail.com
+Message to accompany image? I like penguins!
+penguins.png send to yangyang01011001@gmail.com
+Address to e-mail this image to? yangyang01011001@gmail.com
+Message to accompany image? I like tree frog!
+treefrog.png send to yangyang01011001@gmail.com
