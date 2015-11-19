@@ -6,7 +6,7 @@ If the conversion is succesful the JPEG file should be removed.
 Your script should stop with an appropriate error message and exit status if the PNG file already exists. 
 
 There is an example below:
-https://cloud.githubusercontent.com/assets/14102281/11258790/f22571a8-8e21-11e5-875b-936da4d806e9.png
+![alt tag](https://cloud.githubusercontent.com/assets/14102281/11258790/f22571a8-8e21-11e5-875b-936da4d806e9.png)
 
 You can download JPEG images in issues.
 
